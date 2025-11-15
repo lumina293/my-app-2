@@ -42,7 +42,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Explore App
           </a>
         </div>
       </main>
